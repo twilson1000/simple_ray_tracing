@@ -1,6 +1,6 @@
 # Any files in tests which are images or netCDF.
-test/*/*.png
-test/*/*.nc
+*.png
+*.nc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
